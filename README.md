@@ -1,5 +1,5 @@
-# Verilog-Modeling-of-MIPS-32-bit-processor
-Verilog implementation of MIPS32 Pipeline using 32 32-bit GPRs and some addressing modes. It is word addressable (we assume memory word size is 32 bits).  
+# Verilog-Modeling-of-RISC-32-bit-processor
+Verilog implementation of RISC Pipelined processor using 32 32-bit GPRs and some addressing modes. It is word addressable (we assume memory word size is 32 bits).  
 
 Test bench 1 performs addition operation and writes values into registers as following:-  
 R1=10+0=10  
